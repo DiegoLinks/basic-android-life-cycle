@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Life Cycle</string>
+    <string name="app_name">Lifecycle</string>
+    <string name="hello">Hello android lifecycle!</string>
+    <string name="button_label">Go to second activity!</string>
+    <string name="welcome">Welcome to the second activity!</string>
 </resources>
